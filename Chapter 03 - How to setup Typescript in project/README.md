@@ -165,7 +165,7 @@ node dist/index.js
 ---
 ## **Reference Video**
 
-**Chai aur Code – How TypeScript Works**
+**Chai aur TypeScript – How to Set Up TypeScript in a Project**
 [https://www.youtube.com/watch?v=4O4Y1TJz3F0&list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&index=5](https://www.youtube.com/watch?v=4O4Y1TJz3F0&list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&index=5)
 
 ---
