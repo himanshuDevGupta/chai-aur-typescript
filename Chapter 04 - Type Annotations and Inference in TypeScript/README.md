@@ -150,8 +150,6 @@ let cups = 10;                // Inference
 * Let TS automatically decide
 
 ---
-
----
 ## **Reference Video**
 
 **Chai aur Typescript – Type Annotations and Type Inference in TypeScript**
