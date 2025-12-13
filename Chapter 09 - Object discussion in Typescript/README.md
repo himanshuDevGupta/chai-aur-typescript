@@ -219,13 +219,8 @@ No need to annotate unless using reusable types.
  ## **Reference Video**
 
 **Chai aur Code –  Object Discussion in TypeScript**
-<a 
-  href="https://www.youtube.com/watch?v=aV0mlw1Hfh8&list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&index=2" 
-  target="_blank" 
-  rel="noopener noreferrer"
->
-▶️ Watch the Video on YouTube
-</a>
+[https://www.youtube.com/watch?v=aV0mlw1Hfh8&list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&index=2](https://www.youtube.com/watch?v=aV0mlw1Hfh8&list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&index=2)
+
 ---
 
 ### **If you found this helpful, please star the repository!**
