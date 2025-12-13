@@ -1,6 +1,5 @@
 # **Chapter 05 – Understanding Union Types & Any in TypeScript**
 
-
 # ## **1. What Are Union Types?**
 
 A **Union Type** lets you define a variable that can store values of **multiple specific types**.
