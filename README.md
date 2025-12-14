@@ -31,3 +31,6 @@ Namaste TypeScript
 
 - 📚 **Chapter 10 - Functions in Typescript** — 📖 Theory  
 [Read the notes](./Chapter%2010%20-%20Functions%20in%20Typescript/README.md)
+
+- 📚 **Chapter 11 - Array, enum and tuples in Typescript** — 📖 Theory  
+[Read the notes](./Chapter%2011%20-%20Array,%20enum%20and%20tuples%20in%20Typescript/README.md)
