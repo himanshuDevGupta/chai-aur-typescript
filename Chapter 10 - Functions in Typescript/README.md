@@ -178,7 +178,7 @@ function createChai(order: {
 ---
  ## **Reference Video**
 
-**Chai aur Code –  Object Discussion in TypeScript**
+**Chai aur Code –  Functions in TypeScript**
 [https://www.youtube.com/watch?v=hVMD8imCBrE]
 (https://www.youtube.com/watch?v=hVMD8imCBrE)
 ---
