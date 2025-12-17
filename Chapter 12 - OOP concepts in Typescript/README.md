@@ -202,7 +202,7 @@ class ChaiMaker {
 ---
  ## **Reference Video**
 
-**Chai aur Code –  Arrays, Tuples & Enums in TypeScript**
+**Chai aur Code –  OOP Concepts in TypeScript**
 [https://www.youtube.com/watch?v=B_eCW0umzjA&list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&index=4]
 (https://www.youtube.com/watch?v=B_eCW0umzjA&list=PLu71SKxNbfoBkkr8lblqtsJvxrw3j1tWC&index=4)
 ---
