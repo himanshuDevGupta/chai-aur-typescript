@@ -1,4 +1,4 @@
-Namaste TypeScript
+Chai Aur TypeScript(Reference video Hitesh Choudhary)
 ==================
 
 ---------
@@ -34,3 +34,12 @@ Namaste TypeScript
 
 - 📚 **Chapter 11 - Array, enum and tuples in Typescript** — 📖 Theory  
 [Read the notes](./Chapter%2011%20-%20Array,%20enum%20and%20tuples%20in%20Typescript/README.md)
+
+- 📚 **Chapter 12 - OOP concepts in Typescript** — 📖 Theory  
+[Read the notes](./Chapter%2012%20-%20OOP%20concepts%20in%20Typescript/README.md)
+
+- 📚 **Chapter 13 - Interface and Generics in Typescript** — 📖 Theory  
+[Read the notes](./Chapter%2013%20-%20Interface%20and%20Generics%20in%20Typescript/README.md)
+
+- 📚 **Chapter 14 - Type definations and Axios in typescript** — 📖 Theory  
+[Read the notes](./Chapter%2014%20-%20Type%20definations%20and%20Axios%20in%20typescript/README.md)
